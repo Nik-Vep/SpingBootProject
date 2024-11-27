@@ -1,9 +1,6 @@
 package ProjectBoot.dao;
 
-
-
 import ProjectBoot.model.User;
-
 import java.util.List;
 
 public interface UserDAO {

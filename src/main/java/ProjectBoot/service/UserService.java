@@ -1,9 +1,6 @@
 package ProjectBoot.service;
 
-
-
 import ProjectBoot.model.User;
-
 import java.util.List;
 
 public interface UserService {
